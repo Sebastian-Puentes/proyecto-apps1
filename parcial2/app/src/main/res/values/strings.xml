@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Clima</string>
+    <string name="password">contraseña</string>
+    <string name="email">email</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="register">Registrarse</string>
+    <string name="click_to_login">Click para iniciar</string>
+    <string name="click_to_register">Click para registrarse</string>
+    <string name="logout">Cerrar Sesion</string>
+</resources>
